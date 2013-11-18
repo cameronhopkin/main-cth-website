@@ -7,11 +7,7 @@ body {
   color: #5a5a5a;
 }
 
-.btn {
-   -webkit-border-radius: 20px;
-   -moz-border-radius: 20px;
-   border-radius: 20px;
-}
+
 
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
@@ -85,6 +81,22 @@ body {
   margin-left: 10px;
   margin-right: 10px;
 }
+
+
+/* Featurettes
+------------------------- */
+
+.featurette-divider {
+  margin: 80px 0; /* Space out the Bootstrap <hr> more */
+}
+
+/* Thin out the marketing headings */
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -1px;
+}
+
 
 
 /* RESPONSIVE CSS
